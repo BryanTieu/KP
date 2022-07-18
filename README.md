@@ -1,8 +1,6 @@
 # GW2 Generate KP
 
-
-![png-transparent-guild-wars-2-video-game-computer-icons-wiki-arenanet-pegasus-miscellaneous-dragon-computer-wallpaper](https://user-images.githubusercontent.com/57275830/179501408-d47574a8-7dbf-4e85-89e5-330a2052f632.png)
-
+![400px-The_Ruined_City_of_Arah_(story)_loading_screen](https://user-images.githubusercontent.com/57275830/179501597-dac3d971-c48e-4d3c-a157-6a7f9259a702.jpg)
 
 # Version 1.1: 
 https://bryantieu.github.io/KP/
