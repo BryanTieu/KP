@@ -2,7 +2,7 @@
 
 ![400px-The_Ruined_City_of_Arah_(story)_loading_screen](https://user-images.githubusercontent.com/57275830/179501597-dac3d971-c48e-4d3c-a157-6a7f9259a702.jpg)
 
-# Version 1.1: 
+# Version 1.1
 https://bryantieu.github.io/KP/
 
 # Description
