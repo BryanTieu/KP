@@ -1,6 +1,7 @@
 # GW2 Generate KP
 
-![9B91DEBA-C122-4AFE-85D5-414CE0F5A35D](https://user-images.githubusercontent.com/57275830/179501143-8ac0aad0-b19c-48f6-ba83-fd854147cd11.jpg)
+
+![SamarogRaidHeader-585x340](https://user-images.githubusercontent.com/57275830/179501258-3189a542-9fd4-48ed-8f71-fd145989c442.png)
 
 
 # Version 1.1: 
