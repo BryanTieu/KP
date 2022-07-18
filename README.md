@@ -1,7 +1,7 @@
 # GW2 Generate KP
 
 
-![SamarogRaidHeader-585x340](https://user-images.githubusercontent.com/57275830/179501258-3189a542-9fd4-48ed-8f71-fd145989c442.png)
+![png-transparent-guild-wars-2-video-game-computer-icons-wiki-arenanet-pegasus-miscellaneous-dragon-computer-wallpaper](https://user-images.githubusercontent.com/57275830/179501408-d47574a8-7dbf-4e85-89e5-330a2052f632.png)
 
 
 # Version 1.1: 
